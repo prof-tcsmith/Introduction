@@ -1,7 +1,5 @@
 # Welcome
 
-<< insert a picture of yourself >>
+## Chandan Patel
 
-<< insert a brief biography of yourself -- just a short paragraph is all that is necessary >>
-
-<< insert a link to your GitHub profile >>
+###[Click here to view my Github](https://github.com/patelchandan0912?tab=repositories)
